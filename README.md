@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mirabass
 - 👀 I’m interested in EVERYTHING related to coding.
-- 🌱 I’m currently improving C#, .NET
+- 🌱 I’m currently improving my experiences with C#, .NET
 <!-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...-->
 
