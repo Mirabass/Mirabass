@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mirabass
 - 👀 I’m interested in EVERYTHING related to coding.
-- 🌱 I’m currently improving my experiences with .NET Core, SQL databases, also learning WPF MVVM
+- 🌱 I’m currently improving my experiences with .NET 5, SQL databases, also learning WPF MVVM
 
 - Until recently, I used mostly Azure DevOps. I'm currently returning to github.
 <!-- 💞️ I’m looking to collaborate on ...
